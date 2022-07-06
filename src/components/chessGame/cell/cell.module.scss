@@ -1,0 +1,13 @@
+.cell{
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img{
+    width: 64px;
+    height: 64px;
+    position: relative;
+    background-color: mediumaquamarine;
+  }
+}
